@@ -72,17 +72,17 @@ Instala todas las dependencias con:
 
 Los modelos entrenados se encuentran guardados en la carpeta `src/models` en formato `.pkl` (Joblib). Puedes cargarlos fácilmente de la siguiente manera:
 
-> import joblib
-> import pandas as pd
+> import joblib  
+> import pandas as pd  
 > model = joblib.load("../models/LGBMClassifier.pkl")
 
 
 --- 
 
 ## Autor  
-***Juan José Fernández Moreno***
-📅 Proyecto desarrollado en 2025
-🔬 Enfocado en aprendizaje automático aplicado a predicción deportiva
+***Juan José Fernández Moreno***  
+📅 Proyecto desarrollado en 2025  
+🔬 Enfocado en aprendizaje automático aplicado a predicción deportiva  
 
 
 ---
